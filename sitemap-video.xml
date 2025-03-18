@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <url>
+        <loc>https://www.safegauge.com/</loc>
+        <video:video>
+            <video:title>Eliminate Live Work with SafeGauge</video:title>
+            <video:description>Discover how Safe Gauge improves safety in the industry with its innovative technology by eliminating live work.</video:description>
+            <video:thumbnail_loc>https://img.youtube.com/vi/vdl8UOItfqs/maxresdefault.jpg</video:thumbnail_loc>
+            <video:content_loc>https://www.youtube.com/watch?v=vdl8UOItfqs</video:content_loc>
+            <video:player_loc>https://www.youtube.com/embed/vdl8UOItfqs</video:player_loc>
+            <video:publication_date>2023-11-29T12:00:00+00:00</video:publication_date>
+        </video:video>
+    </url>
+
+    <url>
+        <loc>https://www.safegauge.com/</loc>
+        <video:video>
+            <video:title>How does Safegauge eliminate live work?</video:title>
+            <video:description>Discover how Safegauge wireless sensors eliminate live work and keep technicians safe.</video:description>
+            <video:thumbnail_loc>https://img.youtube.com/vi/3r-S2UvLh5k/maxresdefault.jpg</video:thumbnail_loc>
+            <video:content_loc>https://www.youtube.com/watch?v=3r-S2UvLh5k</video:content_loc>
+            <video:player_loc>https://www.youtube.com/embed/3r-S2UvLh5k</video:player_loc>
+            <video:publication_date>2024-10-07T12:00:00+00:00</video:publication_date>
+        </video:video>
+    </url>
+
+</urlset>
