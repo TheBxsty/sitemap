@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     
-    <!--Videos home-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -27,7 +26,6 @@
         </video:video>
     </url>
 
-    <!--Pressure transducer-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -40,7 +38,6 @@
         </video:video>
     </url>
 
-    <!--Dial Indicator-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -53,7 +50,6 @@
         </video:video>
     </url>
 
-    <!--Tachometer-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -66,7 +62,6 @@
         </video:video>
     </url>
 
-    <!--Push Rod-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -79,7 +74,6 @@
         </video:video>
     </url>
 
-    <!--Laser Displacement-->
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
