@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-video/1.1 
+                            http://www.google.com/schemas/sitemap-video/1.1/video-sitemap.xsd">
+
     <url>
         <loc>https://www.safegauge.com/</loc>
         <video:video>
@@ -54,7 +59,7 @@
         <loc>https://www.safegauge.com/wireless-sensors/tachometer</loc>
         <video:video>
             <video:title>WIRELESS TACHOMETER SENSOR | SafeGauge</video:title>
-            <video:description>The Tachometer enables completely wireless RPM measurements  (e.g the speed of fans, pumps, drill heads, and other rotating parts).</video:description>
+            <video:description>The Tachometer enables completely wireless RPM measurements (e.g the speed of fans, pumps, drill heads, and other rotating parts).</video:description>
             <video:thumbnail_loc>https://img.youtube.com/vi/YXVYfKkSfPY/maxresdefault.jpg</video:thumbnail_loc>
             <video:content_loc>https://www.youtube.com/watch?v=YXVYfKkSfPY</video:content_loc>
             <video:player_loc>https://www.youtube.com/embed/YXVYfKkSfPY</video:player_loc>
@@ -85,6 +90,5 @@
             <video:publication_date>2025-03-19T09:05:46-07:00</video:publication_date>
         </video:video>
     </url>
-
 
 </urlset>
