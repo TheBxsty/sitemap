@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://www.safegauge.com/wireless-sensors/pressure-transducer</loc>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/vg0ATz7s6mKpmi6PhwHftGcE.webp?scale-down-to=512</image:loc>
+            <image:caption>Our Pressure Transducers allow technicians to monitor hydraulic and pneumatic pressure from up to 100m (328ft) away, safely and efficiently.</image:caption>
+            <image:title>Pressure Transducer Wireless Sensor</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/mZ7tZtl9CHdoHBJIodK7RWaxE4.webp</image:loc>
+            <image:caption>These kits can be configured with different pressure ranges to suit any applications.</image:caption>
+            <image:title>Pressure Transducer Bluetooth Sensor</image:title>
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://www.safegauge.com/wireless-sensors/dial-indicator</loc>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/55IPEb01nRkSpwfFxDUtPYLo.webp?scale-down-to=512</image:loc>
+            <image:caption>The Dial Indicator is designed to remotely measure clearances, tolerances and wear on machine components safely and efficiently.</image:caption>
+            <image:title>Dial Indicator Wireless Sensor</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/IcyBGSaT43bPq8ySwgbPwIOSKU.webp?scale-down-to=1024</image:loc>
+            <image:caption>Bluetooth Dial Indicator to measure the upper hoist pin movement and the nose cone movement on one of the 794&apos;’&apos;s.</image:caption>
+            <image:title>Dial Indicator Bluetooth Sensor</image:title>
+        </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://www.safegauge.com/wireless-sensors/tachometer</loc>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/fCLd01YOrSQAR4d8svsOBOrxxvE.webp?scale-down-to=512</image:loc>
+            <image:caption>The Tachometer enables completely wireless RPM measurements  (e.g the speed of fans, pumps, drill heads, and other rotating parts).</image:caption>
+            <image:title>Tachometer Wireless Sensor</image:title>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://framerusercontent.com/images/IcyBGSaT43bPq8ySwgbPwIOSKU.webp?scale-down-to=1024</image:loc>
+            <image:caption>The Tachometer enables completely wireless RPM measurements  (e.g the speed of fans, pumps, drill heads, and other rotating parts).</image:caption>
+            <image:title>Tachometer Bluetooth Sensor</image:title>
+        </image:image>
+
+    </url>
+
+</urlset>
